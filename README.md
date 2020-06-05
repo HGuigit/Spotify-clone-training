@@ -10,7 +10,7 @@ Language-in-page: PT-BR.
 - Simple to make with bootstrap
 - Beautiful and remarkable.
 
-![Alt Text](https://imgur.com/a/lSzeDNq)
+![Alt Text](https://media.giphy.com/media/SqBqsIMchTB5lt3aFv/giphy.gif)
 
 
 
@@ -29,4 +29,4 @@ Language-in-page: PT-BR.
 
 
 
-I Do not own the brand spotify, this clone solo propose is for training.
+I do not own the brand spotify, this clone solo propose is for training.
