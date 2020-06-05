@@ -5,7 +5,7 @@
 This project has no server side, it's only responsive front-end. 
 Language-in-page: PT-BR.
 
-##Qualities:
+### Qualities:
 - Good responsive design.
 - Simple to make with bootstrap
 - Beautiful and remarkable.
