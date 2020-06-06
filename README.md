@@ -10,7 +10,7 @@ Language-in-page: PT-BR.
 - Simple to make with bootstrap
 - Beautiful and remarkable.
 
-#![Alt Text](https://media.giphy.com/media/SqBqsIMchTB5lt3aFv/giphy.gif)
+![Alt Text](https://media.giphy.com/media/SqBqsIMchTB5lt3aFv/giphy.gif)
 
 
 
